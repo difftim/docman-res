@@ -1,0 +1,14 @@
+{
+  "name": "@baye/docman-res",
+  "version": "0.0.1-beta.1",
+  "description": "docman resource",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
